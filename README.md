@@ -5,7 +5,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-^2.5.0-brightgreen)](https://spring.io/projects/spring-boot)
 [![Maven](https://img.shields.io/badge/Maven-^3.8.1-yellow)](https://maven.apache.org/)
 [![Java](https://img.shields.io/badge/Java-^11.0-orange)](https://www.java.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37)](https://www.postman.com/downloads/postman-agent/)
+[![Postman](https://img.shields.io/badge/download-Postman-1das)](https://www.postman.com/downloads/postman-agent/)
 <p align="center">
   <img src="https://github.com/Bhanover/FindPokemons/assets/127310131/f4d7d821-91fc-4e16-854c-0b91944415c4" alt="image" width="400px" heigth="200px">
 </p>
