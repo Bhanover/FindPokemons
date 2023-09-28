@@ -74,7 +74,7 @@ Después de configurar el entorno de desarrollo y la base de datos, puedes inici
 
 - Nesesitaras usar `Postman Agent` para probar las peticiones.
 - Ejemplo de petición:
-  GET /pokemon?latitud=43.347165&longitud=-8.41307&radio=10
+  `GET /pokemon?latitud=43.347165&longitud=-8.41307&radio=10`
   
   ![image](https://github.com/Bhanover/FindPokemons/assets/127310131/288e0792-eba5-4d3c-bd3a-4735b5292bf6)
 
@@ -82,7 +82,7 @@ Después de configurar el entorno de desarrollo y la base de datos, puedes inici
   
   ![image](https://github.com/Bhanover/FindPokemons/assets/127310131/a1df1e83-fe90-40f2-a794-4e9f9ed80451)
 
-- POST /pokemon/{id}
+- `POST /pokemon/{id}`
 
   ![image](https://github.com/Bhanover/FindPokemons/assets/127310131/cc48c31b-7874-4636-9cf4-e2f97f049dac)
 
