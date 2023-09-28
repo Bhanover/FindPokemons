@@ -55,7 +55,8 @@ Después de configurar el entorno de desarrollo y la base de datos, puedes inici
 
 ### También puedes empezar desde 0 (Mysql)
  - Spring Boot ya te crea las tablas (solo nesesitarias crear la base de datos) y añadir esto :
- ```  INSERT INTO pokemon (name, latitud, longitud ) VALUES ('pikachu', 43.351, -8.416);
+ ```
+      INSERT INTO pokemon (name, latitud, longitud ) VALUES ('pikachu', 43.351, -8.416);
       INSERT INTO pokemon (name, latitud, longitud )VALUES ('gato', 44.351, -7.416);
       INSERT INTO pokemon (name, latitud, longitud )VALUES ('niño', 45.351, -6.416);
       INSERT INTO pokemon (name, latitud, longitud )VALUES ('lirio', 46.351, -5.416);
