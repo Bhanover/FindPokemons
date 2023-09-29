@@ -28,7 +28,7 @@ public class PokemonController {
             @RequestParam Double longitud,
             @RequestParam Integer radio) {
 
-        if (latitud == null || longitud == null || radio == null) {
+          if (latitud == null || longitud == null || radio == null || latitud < -90 || latitud > 90 || longitud < -180 || longitud > 180|| radio <= 0 ) {
             return ResponseEntity.badRequest().build();
         }
 
